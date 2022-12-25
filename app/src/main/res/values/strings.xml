@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">birthday_wish</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="text_input_hint">White_devil</string>
+    <string name="create_card">Create card</string>
+</resources>
